@@ -1,0 +1,46 @@
+@font-face {
+  font-family: PP; /* set name */
+  src: url(PPRadioGrotesk-Light.woff); /* url of the font */
+}
+
+body{
+    background-color:red;
+}
+
+#logo{
+    width: 100%;
+
+}
+
+a{
+    color: white !important;
+    font-family: PP;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#links{
+    padding-top: 10vh;
+}
+
+.link{
+    text-align: center;
+}
+
+#all{
+    margin: auto;
+    width: 40vw;
+    margin-top: 40vh;
+}
+
+#video{
+    position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+    z-index: -100;
+}
