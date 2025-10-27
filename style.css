@@ -16,7 +16,7 @@ body{
 }
 
 a{
-    color: red !important;
+    color: white !important;
     font-family: PP;
     text-decoration: none;
     font-size: 1.5em;
@@ -38,7 +38,7 @@ a:hover{
 #all{
     margin: auto;
     width: 70vw;
-    margin-top: 40vh;
+    margin-top: 30vh;
 }
 
 #video{
