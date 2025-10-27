@@ -16,7 +16,7 @@ body{
 }
 
 a{
-    color: black !important;
+    color: blue !important;
     font-family: PP;
     text-decoration: none;
     font-size: 1.2em;
@@ -42,7 +42,6 @@ a:hover{
 }
 
 #video{
-    height: 100vh;
     position: absolute;
     left: 50vw;
   top: 50vh;
@@ -61,5 +60,9 @@ transform: translate(-50%, -50%);
     a{
     font-size: 2em;
     }
+
+  #video{
+    height: 100vh;
+  }
     
     }
