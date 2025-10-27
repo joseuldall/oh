@@ -13,7 +13,7 @@ body{
 }
 
 a{
-    color: white !important;
+    color: red !important;
     font-family: PP;
     text-decoration: none;
 }
