@@ -16,11 +16,11 @@ body{
 }
 
 a{
-    color: white !important;
+    color: red !important;
     font-family: PP;
     text-decoration: none;
-    font-size: 1.2em;
-    line-height: 1.5em;
+    font-size: 1.5em;
+    line-height: 2em;
 }
 
 a:hover{
@@ -37,7 +37,7 @@ a:hover{
 
 #all{
     margin: auto;
-    width: 60vw;
+    width: 70vw;
     margin-top: 40vh;
 }
 
