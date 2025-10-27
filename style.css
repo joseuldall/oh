@@ -5,6 +5,7 @@
 
 body{
     background-color:black;
+    overflow: hidden;
 }
 
 #logo{
@@ -37,6 +38,7 @@ a:hover{
 }
 
 #video{
+    height: 100vh;
     position: absolute;
     left: 50vw;
     top: 50vh;
