@@ -16,7 +16,7 @@ body{
 }
 
 a{
-    color: blue !important;
+    color: yellow !important;
     font-family: PP;
     text-decoration: none;
     font-size: 1.2em;
@@ -50,7 +50,7 @@ transform: translate(-50%, -50%);
 
 }
 
-@media only screen and (max-width: 600px)  {
+@media only screen and (min-width: 480px)  {
     
     #all{
         width: 80vw;
